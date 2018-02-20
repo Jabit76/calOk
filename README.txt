@@ -1,0 +1,2 @@
+# GitWorkSpace
+Educational Git project.
